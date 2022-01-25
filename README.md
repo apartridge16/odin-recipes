@@ -5,3 +5,4 @@ The goal of this project is to put all the html knowledge ive learned to the tes
 
 Post-project:
 
+After finishing the project I became a lot more familiar with git and using it in the terminal. I think I understand how it works and its perpose a little bit better.
